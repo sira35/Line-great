@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Line商品",
+      "price": 35,
+      "stock": 95
+    }
+  ],
+  "keys": {
+    "cfea6f33-ba94-4523-8936-8d5e9efdb607": {
+      "used": true,
+      "generatedAt": "2025-03-19T04:57:45.287Z",
+      "usedAt": "2025-03-19T04:57:52.837Z"
+    },
+    "1f2a46b8-5307-4a59-8ff8-7a29307f81ec": {
+      "used": true,
+      "generatedAt": "2025-03-19T05:04:21.555Z",
+      "usedAt": "2025-03-19T05:04:27.260Z"
+    }
+  }
+}
